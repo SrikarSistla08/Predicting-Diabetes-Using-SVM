@@ -1,6 +1,6 @@
 # Diabetes Prediction Insights
 
-## 1️. Diabetes Prevalence
+## 1. Diabetes Prevalence
 - **65.1%** of the dataset is classified as diabetic (`Outcome = 1`).
 - **Visualization Used:** Pie Chart  
 
@@ -14,11 +14,11 @@
 - The highest diabetes occurrence is in the **40-45 age range**.
 - **Visualization Used:** Histogram  
 
-## 4️. BMI Impact on Diabetes
+## 4. BMI Impact on Diabetes
 - Most diabetic individuals fall into **Overweight (BMI 25-30) and Obese (BMI >30)** categories.
 - **Visualization Used:** Bar Chart  
 
-## 5️. Correlation Analysis
+## 5. Correlation Analysis
 - **Glucose and BMI** show a strong correlation with diabetes risk.
 - **Blood Pressure has a weaker correlation**.
 - **Visualization Used:** Heatmap 
