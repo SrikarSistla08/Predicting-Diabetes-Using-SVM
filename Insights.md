@@ -23,4 +23,4 @@
 - **Blood Pressure has a weaker correlation**.
 - **Visualization Used:** Heatmap 
 
-![alt text](image.png)
+![alt text](Images/Analysis.png) 
