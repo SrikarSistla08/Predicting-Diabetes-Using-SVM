@@ -1,5 +1,5 @@
 # Predicting-Diabetes-Using-SVM
-Developed an SVM model to predict diabetes, achieving 80% accuracy. Cleaned and preprocessed healthcare data using Pandas for feature engineering. Created visual reports explaining risk factors using Power BI.
+Developed an SVM model to predict diabetes, achieving  almost 80% accuracy. Cleaned and preprocessed healthcare data using Pandas for feature engineering. Created visual reports explaining risk factors using Power BI.
 
 
 ## Abstraact
@@ -12,3 +12,6 @@ Machine Learning, Data Analytics using power BI, Future Prediction.
 
 ### PUBLISHED AT
 https://www.ijsce.org/portfolio-item/b35570512222/
+
+### PowerBI Analysis
+![image](https://github.com/user-attachments/assets/127cc56a-c584-496a-ba2c-18f7c9acb8fd)
